@@ -1,10 +1,10 @@
-# 💼 Developer Portfolio - 
+# 💼 Portfolio 
 
 This is my personal portfolio website, built to showcase my skills, projects, and experiences as a full-stack web developer. It reflects my journey through various technologies like React, MERN stack.
 
 ## 🌐 Live Site
 
-🔗 [Visit Portfolio](https:)
+🔗 [Visit Portfolio](https://vishal-s-portfolio.vercel.app/)
 
 ## 📁 Features
 
@@ -22,4 +22,3 @@ This is my personal portfolio website, built to showcase my skills, projects, an
 - **Lucide React**
 - **Vite** (for fast development)
 - **ShadCN / UI** components
-
