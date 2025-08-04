@@ -1,8 +1,18 @@
 import { ArrowRight, ExternalLink, Github } from "lucide-react";
 
 const projects = [
-  {
+  { 
     id: 1,
+    title: "Quick.Ai",
+    description:
+      "Quick.AI is a full-stack AI platform offering article/blog generation, AI image creation, background & object removal, and resume analysis. Features include Clerk authentication, subscription billing, Neon PostgreSQL storage, and a responsive, modern UI with a community gallery.",
+    image: "/projects/Quick.Ai.png",
+    tags: ["React","NodeJs","Express", "Clerk", ,],
+    demoUrl: "https://quick-ai-sooty.vercel.app/",
+    gitHubUrl: "https://github.com/Vishalsahu1510/Quick.Ai",
+  },
+  { 
+    id: 2,
     title: "AI-Mock-Interviews",
     description:
       "React AI Mock Interview is an innovative web application designed to simulate real-world mock interviews using AI. With seamless user authentication, an intuitive interface, and integration with advanced AI, this project serves as an invaluable tool for interview preparation.",
@@ -12,7 +22,7 @@ const projects = [
     gitHubUrl: "https://github.com/Vishalsahu1510/ai-mock-interview",
   },
   {
-    id: 2,
+    id: 3,
     title: "PicMart: Digital-Image-Marketplace",
     description:
       "A full-stack web application where users can buy, sell, and explore high-quality images. Built with Node.js, React, Tailwind CSS, Cloudinary, and JWT authentication for secure and seamless user experience..",
@@ -22,7 +32,7 @@ const projects = [
     gitHubUrl: "https://github.com/Vishalsahu1510/PicMart-Digital-Image-Marketplace",
   },
   {
-    id: 3,
+    id: 4,
     title: "URL Shortener",
     description:
       "A simple and secure web app to shorten long URLs, track clicks, and manage links efficiently. Built using Node.js and JWT-based authentication for safe and personalized link management.",
@@ -42,26 +52,7 @@ const projects = [
   //   demoUrl: "https://password-generator-597m.vercel.app/",
   //   gitHubUrl: "https://github.com/",
   // },
-  // {
-  //   id: 5,
-  //   title: "Redux Counter Project",
-  //   description:
-  //     "A basic counter app built with Redux Toolkit to demonstrate state management patterns in a clean and scalable way.",
-  //   image: "/projects/redux-counter (1).png",
-  //   tags: ["React", "Redux Toolkit"],
-  //   demoUrl: "https://counter-in-react-using-redux-toolki-iota.vercel.app/",
-  //   gitHubUrl:
-  //     "https://github.com/",
-  // },
-  // {
-  //   id: 6,
-  //   title: "Uber Clone",
-  //   description: "A full-stack ride-booking platform inspired by Uber.",
-  //   image: "/projects/cropped-Uber_Clone.jpeg",
-  //   tags: ["MongoDB", "Express", "React", "Node.js"],
-  //   demoUrl: "-",
-  //   gitHubUrl: "https://github.com/",
-  // },
+ 
 ];
 
 const ProjectsSection = () => {
