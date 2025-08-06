@@ -30,7 +30,7 @@ const AboutSection = () => {
             </p>
 
             <div className="flex-col sm:flex-row gap-4 pt-4 justify-center">
-              <a href="#contact" className="cosmic-button">
+              <a href="#contact" className="cosmic-button sm:block">
                 {" "}
                 Get In Touch
               </a>

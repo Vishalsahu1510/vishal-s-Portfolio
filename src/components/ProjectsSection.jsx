@@ -7,7 +7,7 @@ const projects = [
     description:
       "Quick.AI is a full-stack AI platform offering article/blog generation, AI image creation, background & object removal, and resume analysis. Features include Clerk authentication, subscription billing, Neon PostgreSQL storage, and a responsive, modern UI with a community gallery.",
     image: "/projects/Quick.Ai.png",
-    tags: ["React","NodeJs","Express", "Clerk", ,],
+    tags: ["React","NodeJs","Express", "Clerk"],
     demoUrl: "https://quick-ai-sooty.vercel.app/",
     gitHubUrl: "https://github.com/Vishalsahu1510/Quick.Ai",
   },
