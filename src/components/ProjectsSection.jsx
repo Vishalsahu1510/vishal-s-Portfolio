@@ -13,13 +13,13 @@ const projects = [
   },
   { 
     id: 2,
-    title: "AI-Mock-Interviews",
+    title: "Interview Prep AI",
     description:
-      "React AI Mock Interview is an innovative web application designed to simulate real-world mock interviews using AI. With seamless user authentication, an intuitive interface, and integration with advanced AI, this project serves as an invaluable tool for interview preparation.",
-    image: "/projects/ai-mock-interview.png",
-    tags: ["React", "Clerk", "Shadcn UI", "Google Gemini AI", "Firebase"],
-    demoUrl: "https://github.com/Vishalsahu1510/ai-mock-interview",
-    gitHubUrl: "https://github.com/Vishalsahu1510/ai-mock-interview",
+      "A personalized AI-powered platform to prepare for technical interviews by generating dynamic questions, answers, and explanations based on user roles and experience levels.",
+    image: "/interviewPrepAi.png",
+    tags: ["React", "Express", "JWT", "Google Gemini AI", "MongoDB"],
+    demoUrl: "https://ai-interview-prep-rahg.vercel.app/",
+    gitHubUrl: "https://github.com/Vishalsahu1510/Ai-Interview-Prep",
   },
   {
     id: 3,
