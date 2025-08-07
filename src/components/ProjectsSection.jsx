@@ -16,7 +16,7 @@ const projects = [
     title: "Interview Prep AI",
     description:
       "A personalized AI-powered platform to prepare for technical interviews by generating dynamic questions, answers, and explanations based on user roles and experience levels.",
-    image: "/interviewPrepAi.png",
+    image: "/projects/interviewPrepAi.png",
     tags: ["React", "Express", "JWT", "Google Gemini AI", "MongoDB"],
     demoUrl: "https://ai-interview-prep-rahg.vercel.app/",
     gitHubUrl: "https://github.com/Vishalsahu1510/Ai-Interview-Prep",
