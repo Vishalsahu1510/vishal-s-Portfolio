@@ -121,7 +121,7 @@ const ProjectsSection = () => {
 
         <div className="text-center mt-12">
           <a
-            href="https://github.com/AryanRajTalekar"
+            href="https://github.com/Vishalsahu1510/"
             target="_blank"
             className="cosmic-button w-fit flex items-center mx-auto gap-2"
 
