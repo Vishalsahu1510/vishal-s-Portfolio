@@ -29,7 +29,7 @@ const AboutSection = () => {
               frameworks and cloud technologies.
             </p>
 
-            <div className="flex-col sm:flex-row gap-4 pt-4 justify-center">
+            <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
               <a href="#contact" className="cosmic-button sm:block">
                 {" "}
                 Get In Touch
